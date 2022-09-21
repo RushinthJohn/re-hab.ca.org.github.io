@@ -1,2 +1,3 @@
-# re-hab.ca.org.github.io
-Re-hab website repo
+# Re-hab website repo
+
+This repo contains Re-hab's HTML files.
